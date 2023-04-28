@@ -1,0 +1,2 @@
+# pynesweeper
+Pythonでマインスイーパーを作って遊ぶだけです
